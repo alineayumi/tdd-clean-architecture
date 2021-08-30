@@ -1,10 +1,8 @@
 import 'dart:convert';
-
 import 'package:flutter_test/flutter_test.dart';
 import 'package:tdd_clean_architecture/features/data/models/space_media_model.dart';
 import 'package:tdd_clean_architecture/features/domain/entities/space_media_entity.dart';
-
-import '../../../mocks/space_media_mock.dart';
+import '../../mocks/space_media_mock.dart';
 
 void main() {
   final tSpaceMediaModel = SpaceMediaModel(
