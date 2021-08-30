@@ -27,7 +27,7 @@ class SpaceMediaModel extends SpaceMediaEntity {
       );
 
   Map<String, dynamic> toJson() => {
-        'explanation': description,
+        '': description,
         'media_type': mediaType,
         'title': title,
         'media_url': mediaUrl

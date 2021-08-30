@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
 import 'package:tdd_clean_architecture/core/use_case/errors/exceptions.dart';
 import 'package:tdd_clean_architecture/core/use_case/errors/failures.dart';
-import 'package:tdd_clean_architecture/features/data/datasources/SpaceMediaDataSource.dart';
+import 'package:tdd_clean_architecture/features/data/datasources/space_media_data_source.dart';
 import 'package:tdd_clean_architecture/features/domain/entities/space_media_entity.dart';
 import 'package:tdd_clean_architecture/features/domain/repositories/space_media_repository.dart';
 

@@ -3,7 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:tdd_clean_architecture/core/use_case/errors/exceptions.dart';
 import 'package:tdd_clean_architecture/core/use_case/errors/failures.dart';
-import 'package:tdd_clean_architecture/features/data/datasources/SpaceMediaDataSource.dart';
+import 'package:tdd_clean_architecture/features/data/datasources/space_media_data_source.dart';
 import 'package:tdd_clean_architecture/features/data/models/space_media_model.dart';
 import 'package:tdd_clean_architecture/features/data/repositories/space_media_repository_implementation.dart';
 
